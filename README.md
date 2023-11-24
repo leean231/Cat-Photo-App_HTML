@@ -13,3 +13,6 @@ Welcome to the Cat Photo App, a simple HTML website for cat enthusiasts to enjoy
 
 ## Credits:
 This project was created as part of the learning journey on FreeCodeCamp. The initial code structure and inspiration come from the Responsive Web Design tutorials on FreeCodeCamp's platform.
+
+## Output of the code
+https://youtu.be/Gi83KIoggNA?si=kJ_Bc5ona_FDotk_
