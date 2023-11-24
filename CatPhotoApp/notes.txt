@@ -1,0 +1,65 @@
+<!--
+        HTML5 has some elements that identify different content areas. 
+        These elements make your HTML easier to read and help with 
+        Search Engine Optimization (SEO) and accessibility.
+    -->
+
+The <main> element in HTML is used to define the main content of a document. 
+It represents the central or primary content of a web page, excluding headers, 
+footers, and sidebars. The purpose of the <main> element is to improve the semantic 
+structure of a webpage, making it clearer and more meaningful.
+
+<section>  <!--to provide a division-->
+
+<!--The p element is used to create a paragraph of text on websites.
+   -a target attribute with the value _blank to the anchor (a) element's opening tag, 
+   so that the link opens in a new tab.
+-->
+
+<!--the <figure> element is used to encapsulate any content that 
+is referenced from the main content-->
+
+<!--A figure caption (figcaption) element is used to add a caption 
+to describe the image contained within the figure element.-->
+
+<!--the <em> element is used to emphasize text. 
+When text is enclosed within <em> tags, it is typically displayed in italics, 
+indicating to the reader that the content should be emphasized in some way.-->
+
+ <!--The strong element is used to indicate that some text is of strong importance or urgent.-->
+
+<!--form = to collect information from users. 
+action = The action attribute indicates where form data should be sent-->
+
+<!--You can use radio buttons for questions where you want only
+one answer out of multiple options.-->
+
+<!--The id attribute is used to identify specific HTML elements. 
+Each id attribute's value must be unique from all other id values for the entire page.-->
+
+<!--There are many kinds of inputs you can create using the type attribute.
+ You can easily create a password field, reset button, or a control to let users
+  select a file from their computer.-->
+
+<!--In order for a form's data to be accessed by the location specified in the 
+action attribute, you must give the text field a name attribute and assign it 
+a value to represent the data being submitted. For example, you could use the 
+following syntax for an email address text field: <input type="text" name="email">.-->
+
+For example:-
+<input type="checkbox" id="loving" name="personality" value="loving" checked>
+            <label for="loving">Loving</label>
+
+<!--To prevent a user from submitting your form when required information 
+is missing, you need to add the required attribute to an input element. 
+There's no need to set a value to the required attribute. 
+Instead, just add the word required to the input element, making sure 
+there is space between it and other attributes.-->
+
+<!--In order to make a checkbox checked or radio button selected by default, 
+you need to add the checked attribute to it. 
+There's no need to set a value to the checked attribute. 
+Instead, just add the word checked to the input element, making sure there is 
+space between it and other attributes.-->
+
+<!--Button also have a type elemrnt to indicte what type of button it is-->
